@@ -2,13 +2,13 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://testlinkserver.com/expertupholstery</homePageLink>
+		<homePageLink>https://expertupholsteryworks.github.io/expertupholsteryworks/testlinkserver.com/expertupholstery</homePageLink>
 		<apis>
-			<api name="WordPress" blogID="1" preferred="true" apiLink="https://testlinkserver.com/expertupholstery/xmlrpc.php" />
-			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://testlinkserver.com/expertupholstery/xmlrpc.php" />
-			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://testlinkserver.com/expertupholstery/xmlrpc.php" />
-			<api name="Blogger" blogID="1" preferred="false" apiLink="https://testlinkserver.com/expertupholstery/xmlrpc.php" />
-				<api name="WP-API" blogID="1" preferred="false" apiLink="https://testlinkserver.com/expertupholstery/wp-json/" />
+			<api name="WordPress" blogID="1" preferred="true" apiLink="https://expertupholsteryworks.github.io/expertupholsteryworks/testlinkserver.com/expertupholstery/xmlrpc.php" />
+			<api name="Movable Type" blogID="1" preferred="false" apiLink="https://expertupholsteryworks.github.io/expertupholsteryworks/testlinkserver.com/expertupholstery/xmlrpc.php" />
+			<api name="MetaWeblog" blogID="1" preferred="false" apiLink="https://expertupholsteryworks.github.io/expertupholsteryworks/testlinkserver.com/expertupholstery/xmlrpc.php" />
+			<api name="Blogger" blogID="1" preferred="false" apiLink="https://expertupholsteryworks.github.io/expertupholsteryworks/testlinkserver.com/expertupholstery/xmlrpc.php" />
+				<api name="WP-API" blogID="1" preferred="false" apiLink="https://expertupholsteryworks.github.io/expertupholsteryworks/testlinkserver.com/expertupholstery/wp-json/" />
 			</apis>
 	</service>
 </rsd>
